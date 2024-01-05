@@ -43,6 +43,9 @@ https://gaurav-aditya.github.io
 https://linktr.ee/echoaditya
 https://spsn.netlify.app
 
+**Output**
+<img width="773" alt="image" src="https://github.com/gaurav-aditya/school-management-system/assets/110540811/d0c62485-79f5-4e91-a08e-5dede6e0f157">
+<img width="1073" alt="image" src="https://github.com/gaurav-aditya/school-management-system/assets/110540811/12eba4f7-a2cc-4e36-a41e-2460c6001f33">
 
 
 
