@@ -46,6 +46,12 @@ https://spsn.netlify.app
 **Output**
 <img width="773" alt="image" src="https://github.com/gaurav-aditya/school-management-system/assets/110540811/d0c62485-79f5-4e91-a08e-5dede6e0f157">
 <img width="1073" alt="image" src="https://github.com/gaurav-aditya/school-management-system/assets/110540811/12eba4f7-a2cc-4e36-a41e-2460c6001f33">
+<img width="662" alt="image" src="https://github.com/gaurav-aditya/school-management-system/assets/110540811/ec66b6c6-06b6-401a-9811-4edebdef1bd3">
+<img width="663" alt="image" src="https://github.com/gaurav-aditya/school-management-system/assets/110540811/a0d3d38c-d3ae-4878-8a52-db8e894a302b">
+<img width="1067" alt="image" src="https://github.com/gaurav-aditya/school-management-system/assets/110540811/60cb0087-a3e9-495d-91d0-416a2da10b29">
+
+
+
 
 
 
