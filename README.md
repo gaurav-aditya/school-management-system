@@ -1,7 +1,7 @@
-# school-management-system
+# School Management System
 This repository contains the source code for a comprehensive School Management Website developed using Apache as the web server and NetBeans as the integrated development environment (IDE).
 The project is designed to streamline various school management tasks, including student enrollment, attendance tracking, grade management, and communication between teachers, students, and parents.
-
+<br>
 **Features**
 **User Authentication:** Secure login system for administrators, teachers, students, and parents.
 **Student Enrollment:** Easy registration and management of student profiles with relevant details.
@@ -9,16 +9,15 @@ The project is designed to streamline various school management tasks, including
 **Grade Management**: Recording and managing student grades, facilitating transparent academic monitoring.
 **Communication Portal:** An interactive platform for teachers, students, and parents to communicate and share important information.
 **Event Calendar:** Integrated calendar for scheduling and tracking school events, examinations, and holidays.
-**Responsive Design:** A user-friendly interface that adapts to different devices for a seamless experience.
+**Responsive Design:** A user-friendly interface that adapts to different devices for a seamless experience.<br>
 
 **Tech Stack**
-Frontend: HTML, CSS, JavaScript
-Backend: PHP
+Frontend and Backend: Java OOPS Concept
 Database: MySQL
 Web Server: Apache
 IDE: NetBeans
 Setup Instructions
-Clone the repository to your local machine.
+Clone the repository to your local machine.<br>
 
 bash
 Copy code
@@ -33,15 +32,16 @@ Open the project in NetBeans and configure the database connection.
 Run the project and access it through your web browser.
 
 **Contributing**
-Contributions are welcome! Feel free to open issues, submit pull requests, or suggest new features.
+Contributions are welcome! Feel free to open issues, submit pull requests, or suggest new features.<br>
 
 **License**
 This project is licensed under the MIT License.
 
-Feel free to customize this description based on the specific features, technologies, and details of your school management website.
+Feel free to customize this description based on the specific features, technologies, and details of your school management website.<br>
 **More About Me:-**
 https://gaurav-aditya.github.io
 https://linktr.ee/echoaditya
+https://spsn.netlify.app
 
 
 
