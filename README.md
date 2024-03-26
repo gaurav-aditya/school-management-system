@@ -1,35 +1,27 @@
 # School Management System
-This repository contains the source code for a comprehensive School Management Website developed using Apache as the web server and NetBeans as the integrated development environment (IDE).
-The project is designed to streamline various school management tasks, including student enrollment, attendance tracking, grade management, and communication between teachers, students, and parents.
-<br>
-**Features**
-**User Authentication:** Secure login system for administrators, teachers, students, and parents.
-**Student Enrollment:** Easy registration and management of student profiles with relevant details.
-**Attendance Tracking:** Efficient tracking of student attendance records for teachers and administrators.
-**Grade Management**: Recording and managing student grades, facilitating transparent academic monitoring.
-**Communication Portal:** An interactive platform for teachers, students, and parents to communicate and share important information.
-**Event Calendar:** Integrated calendar for scheduling and tracking school events, examinations, and holidays.
-**Responsive Design:** A user-friendly interface that adapts to different devices for a seamless experience.<br>
 
-**Tech Stack**
-Frontend and Backend: Java OOPS Concept
-Database: MySQL
-Web Server: Apache
-IDE: NetBeans
-Setup Instructions
-Clone the repository to your local machine.<br>
+This repository contains the source code for a comprehensive School Management Website developed using Apache as the web server and NetBeans as the integrated development environment (IDE). The project is designed to streamline various school management tasks, including student enrollment, attendance tracking, grade management, and communication between teachers, students, and parents.
 
-bash
-Copy code
-git clone https://github.com/gaurav-aditya/school-management-system.git
+## Features
+- **User Authentication:** Secure login system for administrators, teachers, students, and parents.
+- **Student Enrollment:** Easy registration and management of student profiles with relevant details.
+- **Attendance Tracking:** Efficient tracking of student attendance records for teachers and administrators.
+- **Grade Management**: Recording and managing student grades, facilitating transparent academic monitoring.
+- **Communication Portal:** An interactive platform for teachers, students, and parents to communicate and share important information.
+- **Event Calendar:** Integrated calendar for scheduling and tracking school events, examinations, and holidays.
+- **Responsive Design:** A user-friendly interface that adapts to different devices for a seamless experience.
 
-Set up your Apache server and configure it to serve the project.
+## Tech Stack
+- Frontend and Backend: Java OOPS Concept
+- Database: MySQL
+- Web Server: Apache
+- IDE: NetBeans
 
-Import the MySQL database schema provided in the database directory.
+## Setup Instructions
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/gaurav-aditya/school-management-system.git
 
-Open the project in NetBeans and configure the database connection.
-
-Run the project and access it through your web browser.
 
 **Contributing**
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest new features.<br>
