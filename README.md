@@ -23,17 +23,19 @@ This repository contains the source code for a comprehensive School Management W
    git clone https://github.com/gaurav-aditya/school-management-system.git
 
 
-**Contributing**
-Contributions are welcome! Feel free to open issues, submit pull requests, or suggest new features.<br>
+## Contributing
+Contributions are welcome! Feel free to open issues, submit pull requests, or suggest new features.
 
-**License**
+## License
 This project is licensed under the MIT License.
 
-Feel free to customize this description based on the specific features, technologies, and details of your school management website.<br>
-**More About Me:-**
-https://gaurav-aditya.github.io
-https://linktr.ee/echoaditya
-https://spsn.netlify.app
+Feel free to customize this description based on the specific features, technologies, and details of your school management website.
+
+## More About Me
+- [Portfolio](https://gaurav-aditya.github.io)
+- [Linktree](https://linktr.ee/echoaditya)
+- [SPS Website](https://spsn.netlify.app)
+
 
 **Output**
 <img width="773" alt="image" src="https://github.com/gaurav-aditya/school-management-system/assets/110540811/d0c62485-79f5-4e91-a08e-5dede6e0f157">
